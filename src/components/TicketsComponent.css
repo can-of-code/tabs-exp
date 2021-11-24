@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chango&display=swap");
+
+.tickets-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(255, 243, 138);
+}
+
+.tickets-container h1 {
+  font-family: "Chango";
+  font-size: 4rem;
+}
+
+.acc-custom {
+  width: 50vw;
+  margin-top: 10vh;
+  margin-left: 10vw;
+  z-index: 4;
+}
+
+.accordion-header-container {
+  border-left: 0.5rem solid orange;
+  border-bottom: 0.5rem solid red;
+  margin-bottom: 1rem;
+}
+
+.accordion-header {
+  font-size: 2rem;
+  font-family: "Sigmar One";
+}
+
+.accordion-body {
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  font-family: "Work Sans";
+  font-weight: 500;
+}
+
+.accordion-text {
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.accordion-price {
+  width: 10rem;
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Work Sans";
+  font-weight: 900;
+}
+
+.accordion-body button {
+  width: 15rem;
+  margin: 1rem 0;
+  padding: 0 1rem;
+  border-style: none;
+  font-size: 1.5rem;
+  font-family: "Work Sans";
+  font-weight: 900;
+}

@@ -1,0 +1,208 @@
+{
+  "stages": [
+    {
+      "id": 0,
+      "name": "stage 1",
+      "artists": [
+        {
+          "artistId": 0,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 1 Artist Name 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Saturday Stage 1 Artist 1",
+          "artistPic": "Saturday Stage 1 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 1,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 1 Artist Name 2",
+          "artistTimeSlot": "6pm",
+          "artistDesc": "Text Content about Satuday Stage 1 Artist 2",
+          "artistPic": "Saturday Stage 1 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 2,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 1 Artist Name 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Sunday Stage 1 Artist 1",
+          "artistPic": "Sunday Stage 1 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 3,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 1 Artist Name 2",
+          "artistTimeSlot": "6pm",
+          "artistDesc": "Text Content about Sunday Stage 1 Artist 2",
+          "artistPic": "Sunday Stage 1 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        }
+      ],
+      "location": [44.9813335798566, -93.17295180390605],
+      "geometry": [["POINT A"], ["POINT B"], ["POINT C"], ["POINT D"]]
+    },
+    {
+      "id": 1,
+      "name": "stage 2",
+      "artists": [
+        {
+          "artistId": 4,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 2 Artist 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Saturday Stage 2 Artist 1",
+          "artistPic": "Saturday Stage 2 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 5,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 2 Artist 2",
+          "artistTimeSlot": "6pm",
+          "artistDesc": "Text Content about Satuday Stage 2 Artist 2",
+          "artistPic": "Saturday Stage 1 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 6,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 2 Artist 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Sunday Stage 2 Artist 1",
+          "artistPic": "Sunday Stage 2 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 7,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 2 Artist 2",
+          "artistTimeSlot": "6pm",
+          "artistDesc": "Text Content about Sunday Stage 2 Artist 2",
+          "artistPic": "Sunday Stage 2 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        }
+      ],
+      "location": [44.97882042737466, -93.17428658095051],
+      "geometry": [["POINT A"], ["POINT B"], ["POINT C"], ["POINT D"]]
+    },
+    {
+      "id": 2,
+      "name": "stage 3",
+      "artists": [
+        {
+          "artistId": 8,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 3 Artist 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Saturday Stage 3 Artist 1",
+          "artistPic": "Saturday Stage 3 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 9,
+          "showDayId": 0,
+          "showDay": "Saturday",
+          "artistName": "Saturday // Stage 3 Artist 2",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Satuday Stage 3 Artist 2",
+          "artistPic": "Saturday Stage 3 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 10,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 3 Artist 1",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Sunday Stage 3 Artist 1",
+          "artistPic": "Sunday Stage 3 Artist 1 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        },
+        {
+          "artistId": 11,
+          "showDayId": 1,
+          "showDay": "Sunday",
+          "artistName": "Sunday // Stage 3 Artist 2",
+          "artistTimeSlot": "4pm",
+          "artistDesc": "Text Content about Sunday Stage 3 Artist 2",
+          "artistPic": "Sunday Stage 3 Artist 2 PICTURE",
+          "artistSocial": [
+            { "facebook": "FB" },
+            { "instagram": "IG" },
+            { "soundcloud": "SC" },
+            { "web": "WWW" }
+          ]
+        }
+      ],
+      "location": [44.98032307649466, -93.1766898402331],
+      "geometry": [["POINT A"], ["POINT B"], ["POINT C"], ["POINT D"]]
+    }
+  ]
+}

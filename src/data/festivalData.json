@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Stage 1",
+    "gps": { "latitude": 44.9813732653844, "longitude": -93.17249056294759 },
+    "type": "music"
+  },
+  {
+    "id": 1,
+    "name": "Stage 2",
+    "gps": { "latitude": 44.980143126223886, "longitude": -93.17742275200301 },
+    "type": "music"
+  },
+  {
+    "id": 2,
+    "name": "Stage 3",
+    "gps": { "latitude": 44.97840878682879, "longitude": -93.17434369755269 },
+    "type": "music"
+  },
+  {
+    "id": 3,
+    "name": "Exhib 1",
+    "gps": { "latitude": 44.97892080953196, "longitude": -93.1698655269395 },
+    "type": "art"
+  },
+  {
+    "id": 4,
+    "name": "Exhib 2",
+    "gps": { "latitude": 44.9829145456558, "longitude": -93.1707674122668 },
+    "type": "art"
+  },
+  {
+    "id": 5,
+    "name": "Food 1",
+    "gps": { "latitude": 44.98018343432533, "longitude": -93.17122397964305 },
+    "type": "food"
+  }
+]

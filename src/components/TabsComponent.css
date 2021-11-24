@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chango&display=swap");
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+}
+.tabs-master {
+  background-color: rgb(231, 255, 254);
+}
+.day-bttn-container {
+  width: 100.4%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 3rem;
+}
+
+.day-bttn {
+  font-family: "Sigmar One";
+  font-size: 4rem;
+  text-align: end;
+  padding: 0 2rem;
+  margin-right: 3rem;
+  border-bottom: 0.5rem solid black;
+  border-left: 0.5rem solid black;
+  border-right: 0.5rem solid black;
+  background-color: white;
+}
+
+.stage-bttn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.stage-bttn {
+  background-color: yellow;
+  width: 100%;
+  font-family: "Sigmar One";
+  font-size: 2rem;
+  text-align: center;
+  padding: 1rem;
+  margin-right: 1.3rem;
+  border-left: 0.5rem solid black;
+  border-bottom: 0.5rem solid black;
+}
+
+.stage-artist-info-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.artist-bttn-container {
+  width: 30vw;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 2rem;
+}
+
+.artist-bttn {
+  background-color: rgb(255, 74, 246);
+  width: 100%;
+  font-family: "Work Sans";
+  font-weight: 900;
+  font-size: 1.2rem;
+  text-align: start;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 2rem 2rem 0 0;
+  border-bottom: 0.5rem solid rgb(206, 0, 195);
+}
+
+.artist-desc-container {
+  width: 60vw;
+  border-radius: 2rem 2rem 0 0;
+  margin-left: 4rem;
+  margin-top: 2rem;
+  padding: 2rem 3rem 0 0;
+  background-color: wheat;
+}
+.artist-desc-container h1 {
+  font-size: 3rem;
+  font-family: "Chango";
+  text-align: end;
+}
+.artist-desc-container h3 {
+  font-size: 2rem;
+  font-family: "Sigmar One";
+  text-align: end;
+}
+.artist-desc-container .artist-desc-text {
+  font-size: 1rem;
+  font-family: "Work Sans";
+  font-weight: 500;
+  text-align: justify;
+  width: 30vw;
+  padding: 3rem;
+}
+.artist-desc-container .artist-desc-info-container {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  align-items: stretch;
+}
+.artist-desc-container .artist-desc-info-container .artist-desc-image {
+  width: 30vw;
+  height: 75vh;
+  background-image: url(https://www.looper.com/img/gallery/most-savage-bart-chalkboard-quotes/intro-1597678881.jpg);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  margin: 3rem 0;
+}
+
+.artist-desc-container .artist-desc-social {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  font-size: 1.5rem;
+}
+.artist-desc-container .artist-desc-social .social-link {
+  padding: 1rem;
+  margin: 2rem 2rem 0 0;
+  background-color: burlywood;
+}
