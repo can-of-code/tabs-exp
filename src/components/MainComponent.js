@@ -1,7 +1,8 @@
 import React from "react";
 import Tabs from "./TabsComponent";
 // import MapComponent from "./MapComponent";
-import MapExp from "./MapExp";
+// import MapExp from "./MapExp";
+import MapThree from "./MapThree";
 import MenuComponent from "./MenuComponent";
 import TicketsComponent from "./TicketsComponent";
 import ContactComponent from "./ContactComponent";
@@ -17,7 +18,8 @@ function MainComponent() {
       </div>
       <div>
         {/* <MapComponent /> */}
-        <MapExp />
+        {/* <MapExp /> */}
+        <MapThree />
       </div>
       <div>
         <TicketsComponent />
